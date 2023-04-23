@@ -212,7 +212,8 @@ button[type=submit] {
   appearance: none;
 }
 
-input {
+input,
+select {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
