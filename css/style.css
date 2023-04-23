@@ -201,7 +201,8 @@ ul {
   color: inherit;
 }
 
-button {
+button,
+select {
   background-color: inherit;
   color: inherit;
 }
